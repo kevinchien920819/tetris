@@ -1,2 +1,3 @@
-tetris.v2
-tetris.v3
+tetrisv2.c
+tetrisv3.c
+.gitignore
